@@ -1,0 +1,23 @@
+{
+  "name": "DEMO2",
+  "version": "0.1.0",
+  "summary": "A short description of DEMO2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chedch/DEMO2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chedch": "chedch@rd.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/chedch/DEMO2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "DEMO2/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
+}
